@@ -1,5 +1,5 @@
 {
-  "name": "SafeSight2",
+  "name": "recipe_app_mobile",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,17 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "^2.0.0",
-    "@react-native-community/geolocation": "^3.4.0",
-    "@react-navigation/native": "^6.1.18",
-    "@react-navigation/stack": "^6.4.1",
     "react": "18.3.1",
-    "react-native": "0.75.3",
-    "react-native-gesture-handler": "^2.19.0",
-    "react-native-maps": "^1.18.0",
-    "react-native-reanimated": "^3.15.2",
-    "react-native-safe-area-context": "^4.11.0",
-    "react-native-screens": "^3.34.0"
+    "react-native": "0.75.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
